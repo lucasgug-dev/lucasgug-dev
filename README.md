@@ -5,7 +5,7 @@
 ---
 
 ### 🔧 Tech Stack
-**Languages:** Java, C, Python, Haskell, Python, R  
+**Languages:** Java, C, Haskell, Python, R, Julia 
 **Web:** HTML, CSS, JavaScript, React  
 **Backend:** Java (Spring Boot), REST APIs  
 **Tools:** Git, GitHub, Docker, VS Code , IntelliJ

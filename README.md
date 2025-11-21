@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas 👋
 
-**Computer Science student at the University of Innsbruck**, building up strong fundamentals in software engineering, algorithms, systems, and modern development tools.
+**Computer Science student at the University of Innsbruck**, building up strong fundamentals in software engineering and modern development tools.
 
 ---
 
@@ -18,7 +18,6 @@
 - **Magic Mirror (Python, JavaScript)** – custom smart mirror built during my "diploma thesis"(HTL Anichstraße), featuring facial recognition, modular UI and Raspberry Pi integration. (finished)
 - **Notes API (Java / Spring Boot)** – simple CRUD backend with clean architecture (coming soon)  
 - **React Todo App** – basic frontend demonstrating components & state management (coming soon)
-- 
 ---
 
 ### 🎯 Currently working on

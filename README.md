@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Lucas 👋
 
-<!--
-**lucasgug-dev/lucasgug-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student at the University of Innsbruck**, building up strong fundamentals in software engineering, algorithms, systems, and modern development tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+**Languages:** Java, C, Python, Haskell, Python, R  
+**Web:** HTML, CSS, JavaScript, React  
+**Backend:** Java (Spring Boot), REST APIs  
+**Tools:** Git, GitHub, Docker, VS Code , IntelliJ
+**Other:** SQL, basic networking, Linux fundamentals
+
+
+---
+
+### 🚀 Projects
+- **Magic Mirror (Python, JavaScript)** – custom smart mirror built during my "diploma thesis"(HTL Anichstraße), featuring facial recognition, modular UI and Raspberry Pi integration. (finished)
+- **Notes API (Java / Spring Boot)** – simple CRUD backend with clean architecture (coming soon)  
+- **React Todo App** – basic frontend demonstrating components & state management (coming soon)
+- 
+---
+
+### 🎯 Currently working on
+- Building small full-stack and backend projects  
+- Strengthening Java + React skills through practical development  
+- Expanding knowledge in cloud, containers & modern software tooling  
+
+---
+
+### 🔗 Connect
+**LinkedIn:** [Lucas Gugerbauer](https://www.linkedin.com/in/lucas-gugerbauer-996260365)

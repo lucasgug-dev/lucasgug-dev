@@ -28,4 +28,4 @@
 ---
 
 ### 🔗 Connect
-**LinkedIn:** [Lucas Gugerbauer](https://www.linkedin.com/in/lucas-gugerbauer-996260365)
+**LinkedIn:** [Lucas Gugerbauer](https://www.linkedin.com/in/lucas-gugerbauer)

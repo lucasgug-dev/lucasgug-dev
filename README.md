@@ -16,8 +16,7 @@
 
 ### 🚀 Projects
 - **Magic Mirror (Python, JavaScript)** – custom smart mirror built during my "diploma thesis"(HTL Anichstraße), featuring facial recognition, modular UI and Raspberry Pi integration. (finished)
-- **Notes API (Java / Spring Boot)** – simple CRUD backend with clean architecture (coming soon)  
-- **React Todo App** – basic frontend demonstrating components & state management (coming soon)
+- **Notes API (Java / Spring Boot)** – simple CRUD backend with clean architecture (in work)  
 ---
 
 ### 🎯 Currently working on

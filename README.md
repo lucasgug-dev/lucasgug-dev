@@ -93,6 +93,34 @@ I bring the discipline of hands-on technical work, structured problem-solving, a
 ## Featured Projects
 
 <details open>
+<summary><strong>ClimaIQ - Intelligent Indoor Climate Monitoring Platform</strong></summary>
+
+<br>
+
+<div align="center">
+
+[![ClimaIQ](https://raw.githubusercontent.com/lucasgug-dev/ClimaIQ/main/assets/climaiq-cover.png)](https://github.com/lucasgug-dev/ClimaIQ)
+
+</div>
+
+ClimaIQ is an end-to-end IoT platform for monitoring indoor temperature, humidity, and air quality across buildings and workspaces. It connects Arduino sensor stations and Raspberry Pi edge devices with a secure Spring Boot backend and role-specific React dashboards.
+
+| Dimension | Details |
+|:---|:---|
+| **Stack** | Java 25, Spring Boot 3.5, React 19, TypeScript, Python, Arduino/C++, Docker |
+| **Scale** | Multi-layer IoT system spanning embedded sensors, edge computing, REST services, persistence, and web dashboards |
+| **Performance** | Edge-based measurement aggregation, automated threshold evaluation, and historical trend processing |
+| **Security** | Stateless JWT authentication, role-based access control, password encoding, and dedicated edge-device authentication |
+| **Impact** | Transforms raw environmental measurements into warnings, trends, and actionable insights for multiple organizational roles |
+| **Repository** | [lucasgug-dev/ClimaIQ](https://github.com/lucasgug-dev/ClimaIQ) |
+
+The project demonstrates full-stack product engineering across hardware, firmware, edge services, backend architecture, API integration, frontend development, testing, and containerized deployment.
+
+> **Disclaimer:** ClimaIQ was developed collaboratively as a university group project. It is presented for demonstration, documentation, and portfolio purposes and has not been validated for production use.
+
+</details>
+
+<details open>
 <summary><strong>Magic Mirror - Adaptive Smart Display</strong></summary>
 
 <br>
